@@ -2,11 +2,11 @@ body{
     background-color: white;
 }
 div.a{
-    background-image: url(images/map.jpg);
-    /*filter: blur(8px);
+    background-image: url('images/map.jpg');
+    filter: blur(8px);
     height: 100%;
     background-position: center;
-    background-size: cover;*/
+    background-size: cover;
 }
 
 div.a-text{
