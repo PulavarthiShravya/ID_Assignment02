@@ -1,5 +1,5 @@
 body{
-    background-color: lavender;
+    background-color: white;
 }
 
 body, html {
@@ -12,8 +12,8 @@ body, html {
 
 div.a{
     background-image: url(images/map.jpg);
-    filter: blur(3px);
-    -webkit-filter: (3px);
+    filter: blur(2px);
+    -webkit-filter: (2px);
     height: 85%;
     background-position: center;
     background-repeat: no-repeat;
@@ -34,5 +34,18 @@ div.a-text{
     width: 80%;
     padding: 20px;
     text-align: center;
+}
+
+.button{
+    background-color: white;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 50px;
+    font-size: 16px;
+    cursor: pointer;
 }
 
