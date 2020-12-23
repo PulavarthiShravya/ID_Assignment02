@@ -12,8 +12,8 @@ body, html {
 
 div.a{
     background-image: url(images/map.jpg);
-    filter: blur(8px);
-    -webkit-filter: (8px);
+    filter: blur(3px);
+    -webkit-filter: (3px);
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
