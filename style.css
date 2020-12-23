@@ -1,6 +1,6 @@
-body{
+/*body{
     background-color: white;
-}
+}*/
 .a-image{
     background-image: url("images/map.jpg");
     filter: blur(8px);
