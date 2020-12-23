@@ -2,7 +2,7 @@
     background-color: white;
 }*/
 div.a-image{
-    background-image: url(images/map.jpeg);
+    background-image: url(images/map.jpg);
     filter: blur(8px);
     height: 100%; 
   
