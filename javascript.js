@@ -1,8 +1,3 @@
-//on click function to redirect it to next page
-function myFunction() {
-    location.replace("https://www.w3schools.com")
-  }
-
 /*window.onload = function() {
     loaddata();
 };
