@@ -79,3 +79,35 @@ div.address{
     cursor: pointer;
 }
 
+.parkingbg{
+    background-color: lightblue;
+}
+
+.parking{
+    color: black;
+    font-size: 30px;
+    font-family:'Bangers', cursive;
+    text-align: left;
+}
+
+.dontknow{
+    color: black;
+    font-size: 25px;
+    font-family:'Bangers', cursive;
+    text-align: left;
+}
+
+.dk{
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    font-family:'Bangers', cursive;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 50px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
