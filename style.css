@@ -10,6 +10,14 @@ body, html {
     box-sizing: border-box;
   }
 
+
+div.content{
+    max-width: 700px;
+    margin: auto;
+    /*background: black; */
+    padding: 30px;
+}
+
 div.a{
     background-image: url(images/map.jpg);
     filter: blur(2px);
