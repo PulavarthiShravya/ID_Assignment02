@@ -1,4 +1,9 @@
-window.onload = function() {
+//on click function to redirect it to next page
+function myFunction() {
+    location.replace("https://www.w3schools.com")
+  }
+
+/*window.onload = function() {
     loaddata();
 };
 function loaddata(){
@@ -15,4 +20,4 @@ function loaddata(){
 }
 window.setInterval(function(){
 loaddata();
-    }, 5000);
+    }, 5000); */
